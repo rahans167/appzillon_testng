@@ -1,0 +1,23 @@
+{
+  "typeclass": "DEVICEGROUPS",
+  "name": "devicegroups",
+  "type": "DEVICEGROUPS",
+  "devices": [
+    {
+      "name": "All",
+      "description": "All",
+      "width": "1000",
+      "height": "2000",
+      "os": "ALL",
+      "orientation": "ANY"
+    },
+    {
+      "name": "MCA",
+      "description": "MCA",
+      "width": "1000",
+      "height": "2000",
+      "os": "MCA",
+      "orientation": "ANY"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+{"typeclass":"SCREEN","name":"Changed1","type":"SCREEN","childs":[],"screendescription":"asdf","scrcustomize":"N","screentype":"MAIN","displayname":"Changed1","interfaces":[{"name":"intf3asdf","request":"Y","response":"Y","fault":"N"}],"id":[{"devicegroup":"All","portraitlo":"NewLayout","landscapelo":"NewLayout"}]}
